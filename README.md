@@ -16,7 +16,7 @@ This project demonstrates a basic CMOS inverter simulated using LTSpice. It incl
 - Includes waveform of input vs output
 - Can observe delay and VTC behavior
 
-![Waveform](waveform.png)
+
 
 ## 📝 Learnings
 - Basics of CMOS transistor behavior
